@@ -1,0 +1,5 @@
+weather.csv
+.idea/
+.venv/
+__pycache__/
+*.pyc
