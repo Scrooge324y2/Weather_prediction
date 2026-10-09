@@ -25,10 +25,10 @@ The data file is not included in this repository. The script expects a CSV named
 
 ## Results
 
-| Metric | Value |
-|---|---|
-| Train accuracy | [XX.XX]% |
-| Test accuracy | [XX.XX]% |
+| Metric | Value    |
+|---|----------|
+| Train accuracy | [93.27]% |
+| Test accuracy | [86.90]% |
 
 Baseline (always predicting "no rain"): [XX.XX]%.
 
