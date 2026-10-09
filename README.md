@@ -43,8 +43,7 @@ Baseline (always predicting "no rain"): [XX.XX]%.
 
 ```bash
 git clone [https://github.com/Scrooge324y2/Weather_prediction.git]
-cd [Weather_prediction
-]
+cd [Weather_prediction]
 pip install -r requirements.txt
 # add your weather.csv to the project folder
 python weather_prediction.py
